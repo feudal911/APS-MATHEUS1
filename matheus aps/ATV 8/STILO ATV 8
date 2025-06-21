@@ -1,0 +1,40 @@
+div{
+   background-color: #daff95 ;
+   max-width: 1000px;
+   margin: 0 auto;
+   border-radius: 0px 0px 30px 30px;
+}
+
+h2{
+   background-color: orange;
+   color: white;
+   padding: 10px;
+}
+
+#texto{
+   text-align: center;
+   color: orange;
+}
+
+body{
+   background-color: #ffffcb;
+   background-image: url(torta_limao_backS.png) , url(torta_limao_backI.png);
+   background-repeat: repeat-x, repeat-x;
+   background-position: top, bottom;
+   font-family: Arial, Helvetica, sans-serif;
+   padding: 3%, 0, 3%;
+   margin-top: 50px;
+   margin-bottom: 50px;
+}
+
+.primario{
+   list-style-image: url(torta_limao_item1.gif);
+}
+
+.segundario{
+   list-style-image: url(torta_limao_item2.gif);
+}
+
+.terceario{
+   list-style-image: url(torta_limao_item3.gif);
+}

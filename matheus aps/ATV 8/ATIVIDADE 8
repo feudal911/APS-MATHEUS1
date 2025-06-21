@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="STILO ATV 8">
+   <title>Document</title>
+</head>
+<body>
+   <h1 id="texto">Torta de Limão D.Olga, receita de 1972</h1>
+   <div id="receita">
+      <h2>Escolha um dos dois tipos de massa</h2>
+      
+      <ul>
+         <li class="primario">Massa tipo 1:</li>
+
+            <li class="segundario">Ingredientes:</li>
+               <ul>
+                  <li class="terceario">2 colheres de manteiga</li>
+                  <li class="terceario">1 pitada de sal</li>
+                  <li class="terceario">1 gema</li>
+                  <li class="terceario">4 colheres de açucar</li>
+                  <li class="terceario">3 colheres de água (se precisar)</li>
+                  <li class="terceario">2 xícaras de farinha de trigo</li>
+               </ul>
+         <li class="segundario">Preparo:</li>
+         
+            <ul>
+               <li class="terceario">Bata todos os ingredientes</li>
+               <li class="terceario">Unte uma assdeira</li>
+               <li class="terceario">Coloque a massa na assadeira</li>
+               <li class="terceario">Leve ao forno até dourar</li>
+            </ul>
+      </ul>
+
+      <ul>
+      <li class="primario">Massa tipo 2:</li>
+         <li class="segundario">Ingredientes:</li>
+            <ul>
+               <li class="terceario">1 pacote de 200g de biscoite maizena</li>
+               <li class="terceario">100g de margarina ou manteiga<lil>
+            </ul>
+         <li class="segundario">Preparo</li>
+            <ul>
+               <li class="terceario">Triturar (no processador) o biscoite</li>
+               <li class="terceario">Acrecentar a margarina (ou manteiga)</li>
+               <li class="terceario">Amassar com os dedos</li>
+               <li class="terceario">Distribuir na forma untada</li>
+               <li class="terceario">Levar ao forno por 10min para dourar</li>
+            </ul>
+      </ul>
+      <ul>
+      <li class="primario">Recheio</li>
+         <li class="segundario">Ingredientes</li>
+            <ul>
+               <li class="terceario">1 lata de leite condensado</li>
+               <li class="terceario">2 gemas</li>
+               <li class="terceario">1/2 xícaras de suco de limão</li>
+            </ul>
+         <li class="segundario">Preparo</li>
+            <ul>
+               <li class="terceario">Bata todos os ingredientes</li>
+               <li class="terceario">Cubra a massa</li>
+            </ul>
+      </ul>
+      <ul>
+      <li class="primario">Cobertura</li>
+         <li class="segundario">Ingredientes</li>
+            <ul>
+               <li class="terceario">3 claras</li>
+               <li class="terceario">3 colheres de açucar</li>
+               <li class="terceario">Algumas gotas de limão</li>
+            </ul>
+         <li class="segundario">Preparo</li>
+            <ul>
+               <li class="terceario">Bater as claras em neve</li>
+               <li class="terceario">Acrescentar o açucar</li>
+               <li class="terceario">Acrecentar gotas de limão</li>
+               <li class="terceario">Acrescentar as gotas de limãoContinuar a bater até o ponto de suspiro (firme)</li>
+            </ul>
+      </ul>
+
+      <ul>
+         <li class="primario">Montagem:</li>
+            <li class="segundario">Colocar o rechio sobre a mensagem</li>
+            <li class="segundario">Colocar a cobertura sobre o Recheio</li>
+            <li class="segundario">Levar ao forno para dourar (5 min)</li>
+            <li class="segundario">Retirar do forno, esperar esfriar e colocar na geladeira</li>
+            <li class="segundario">Servir fria</li>
+      </ul>
+   </div>
+</body>
+</html>

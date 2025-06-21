@@ -1,0 +1,92 @@
+@media (max-width: 419px) {
+body{
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.telaPq{
+    display: block;
+}
+
+.telaGd, .telaMd{
+    display: none;
+}
+
+section{
+    width: 95%;
+}
+
+section img{
+    width: 100%;
+}
+
+}
+
+@media (min-width: 420px) {
+body{
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.telaMd{
+    display: block;
+}
+
+.telaPq, .telaGd{
+    display: none;
+}
+
+section{
+    width: 45%;
+    float: left;
+    margin: auto 1.5%;
+}
+
+section img{
+    width: 100%;
+}
+
+.terceiro{
+    width: 100%;
+    margin: 10px
+}
+}
+
+@media (min-width: 680px){
+body{
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.telaGD{
+    display: block;
+}
+
+.telaMd, .telaPq{
+    display: none;
+}
+
+section{
+    width: 30%;
+    float: left;
+    margin: auto 1.5%
+}
+
+section img{
+    max-width: 100%;
+}
+
+section:last-of-type{
+    width: 30%;
+    float: left;
+}
+
+
+section:last-of-type img{
+    padding-bottom: 65px;
+
+}
+}
